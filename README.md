@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check out this page to see the working[MR](https://venkatkumar1810.github.io/monsters-rolodexx/)
+
 ## Available Scripts
 
 Use the below comand to install node modules:
